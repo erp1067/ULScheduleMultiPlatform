@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULScheduleAndroid", "ULSche
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULScheduleiOS", "ULScheduleiOS\ULScheduleiOS.csproj", "{86BF1796-CB16-4546-B357-03AE7E9E74E6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{88B224A1-E1F5-4224-87F5-A0735B26A4E6}"
+	ProjectSection(SolutionItems) = preProject
+		SQLite.cs = SQLite.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -69,6 +74,8 @@ Global
 		{B873EB03-29DD-404D-B351-62C711D063DE}.Release|iPhoneSimulator.Build.0 = Release|x86
 		{B873EB03-29DD-404D-B351-62C711D063DE}.Release|x86.ActiveCfg = Release|x86
 		{B873EB03-29DD-404D-B351-62C711D063DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = ULScheduleMultiPlatform\ULScheduleMultiPlatform.csproj

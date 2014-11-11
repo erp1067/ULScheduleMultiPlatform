@@ -2,11 +2,9 @@
 
 namespace SharedDataControl
 {
-	public class MyClass
+	public class Events
 	{
-		public MyClass ()
-		{
-		}
+
 	}
 }
 
